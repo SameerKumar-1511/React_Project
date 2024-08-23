@@ -1,2 +1,2 @@
-# React + Vite
+# React Project
 Using Vite
